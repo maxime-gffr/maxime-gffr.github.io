@@ -1,0 +1,114 @@
+
+header {
+    margin-top: 20px;
+    height: 20%;
+    background-color:gainsboro;
+    text-align: center;
+    color: black;
+}
+
+.entourage {
+    height: 1046.5px;
+    margin-left: 25%;
+    width: 740px;
+    background-color: rgb(37, 177, 224);
+    float: left;
+    
+}
+
+
+.liste_atout_gauche {
+    float: left;
+    width: 40%;
+
+}
+
+.liste_atout_droite {
+    margin-left: 50%;
+    position: relative;
+    width: 40%;
+}
+
+
+
+
+.photo {
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+
+.photo_img {
+    border-radius: 100%;
+}
+
+.texte_photo {
+    text-align: left;
+    margin-left: 30%;
+    
+}
+
+
+div {
+    margin-left: 20px;
+    height: 1006.5px;
+    width: 700px;
+    position: relative;
+    background-color:gainsboro;
+}
+
+.section_gauche{
+    margin-top: 5%;
+    margin-bottom: 1.25%;
+    float: left;
+    width: 350px;
+    border: 3px black;
+}
+.section_droite {
+    margin-top: 5%;
+    margin-left: 50%;
+    border: 3px black;
+}
+
+
+
+.module_g {
+    padding: 1%;
+    height: 200px;
+    background-color:white;
+    margin-right: 3%;
+    transition: transform 0.3s ease;
+}
+
+.module_d {
+    padding: 1%;
+    height: 200px;
+    background-color:white;
+    transition: transform 0.3s ease;
+}
+
+.module_d:hover {
+    transform: scale(1.1);
+}
+
+.module_g:hover {
+    transform: scale(1.1);
+}
+
+
+.contact {
+    height: 80px;
+    width: 700px;
+    margin-left: 15px;
+    background-color: rgb(37, 177, 224);
+    color: white;
+    
+}
+
+
+
+
+
+
+
